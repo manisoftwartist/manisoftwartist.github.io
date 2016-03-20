@@ -7,7 +7,7 @@ external-image: false
 picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
-url:http://manisoftwartist.github.io
+url: http://manisoftwartist.github.io
 
 permalink: /:title/
 
